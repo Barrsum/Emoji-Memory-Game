@@ -12,9 +12,9 @@ Instead of a basic grid of images, Emoji Match offers a tactile, soft, and elega
 
 ## Screenshots
 
-![Project Screenshot](home-03.png) 
-![Project Screenshot](home-02.png) 
 ![Project Screenshot](home-01.png) 
+![Project Screenshot](home-02.png) 
+![Project Screenshot](home-03.png) 
 
 ## ✨ Features
 
