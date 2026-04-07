@@ -4,11 +4,17 @@
 
 **Day 07 / 30 - April Vibe Coding Challenge**
 
-## Try the live demo - [Demo](https://emoji-match-memory.vercel.app/)
+## Try the live demo - [Demo](https://emoji-memory-game-one.vercel.app/)
 
 **Emoji Match** is a premium, highly polished memory flashcard game designed with a "Dreamy Glassmorphism" aesthetic. 
 
 Instead of a basic grid of images, Emoji Match offers a tactile, soft, and elegant interface. With frosted glass panels, smooth 3D card flips, and satisfying visual feedback for matches and errors, it elevates a classic game into a modern web experience.
+
+## Screenshots
+
+![Project Screenshot](home-03.png) 
+![Project Screenshot](home-02.png) 
+![Project Screenshot](home-01.png) 
 
 ## ✨ Features
 
